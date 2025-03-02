@@ -1,16 +1,18 @@
 # LLM Model Converter and Quantizer
 
 Large Language Models (LLMs) are typically distributed in formats optimized for training (like PyTorch) and can be extremely large (hundreds of gigabytes), making them impractical for most real-world applications. This tool addresses two critical challenges in LLM deployment:
-
 1. **Size**: Original models are too large to run on consumer hardware
 2. **Format**: Training formats are not optimized for inference
+
+## Try Yourself
+Explore and experiment with the LLM Quantization tool on Hugging Face Spaces:
+[**LLM Quantization Demo**](https://huggingface.co/spaces/bhaskartripathi/LLM_Quantization)
    
 ![Quantization](Quantization.gif)
 
-
 ## Why This Tool?
 
-I decided to build this tool to help AI Researchers achieve the following:
+I built this tool to help AI Researchers achieve the following:
 - Converting models from Hugging Face to GGUF format (optimized for inference)
 - Quantizing models to reduce their size while maintaining acceptable performance
 - Making deployment possible on consumer hardware (laptops, desktops) with limited resources
