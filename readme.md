@@ -4,6 +4,10 @@ Large Language Models (LLMs) are typically distributed in formats optimized for 
 
 1. **Size**: Original models are too large to run on consumer hardware
 2. **Format**: Training formats are not optimized for inference
+<video width="640" height="360" controls>
+  <source src="https://github.com/user-attachments/assets/97ba77a0-fd4e-4a88-b8c8-2f948c0e7f6c" type="video/webm">
+</video>
+
 
 ## Why This Tool?
 
