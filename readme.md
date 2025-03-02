@@ -9,9 +9,7 @@ Explore and experiment with the LLM Quantization tool on Hugging Face Spaces:
 [**LLM Quantization Demo**](https://huggingface.co/spaces/bhaskartripathi/LLM_Quantization)
    
 ![Quantization](Quantization.gif)
-
 ## Why This Tool?
-
 I built this tool to help AI Researchers achieve the following:
 - Converting models from Hugging Face to GGUF format (optimized for inference)
 - Quantizing models to reduce their size while maintaining acceptable performance
