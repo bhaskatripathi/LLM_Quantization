@@ -131,6 +131,7 @@ pip install -r requirements.txt
 # Run the Streamlit application
 streamlit run app.py
 ```
+[![Star History Chart](https://api.star-history.com/svg?repos=bhaskatripathi/LLM_Quantization&type=Date)](https://star-history.com/#bhaskatripathi/LLM_Quantization&Date)
 
 ## 🤝 Contributing
 
