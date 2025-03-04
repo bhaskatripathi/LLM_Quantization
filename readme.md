@@ -88,7 +88,7 @@ GGUF (GPT-Generated Unified Format) offers several advantages:
 
 # GGUF (GPT-Generated Unified Format)
 
-GGUF (GPT-Generated Unified Format) is a file format specifically designed for efficient deployment and inference of large language models. Let me break down why it's important and beneficial:
+GGUF (GPT-Generated Unified Format) is a file format specifically designed for efficient deployment and inference of large language models. 
 
 ## Key Benefits of GGUF:
 
@@ -119,7 +119,7 @@ GGUF (GPT-Generated Unified Format) is a file format specifically designed for e
 
 ```bash
 # Clone the repository
-git clone https://github.com/bhaskatripathi/LLM_Quantization
+git clone https://github.com/bhaskatripathi/LLM_Quantization.git
 
 # Install dependencies
 pip install -r requirements.txt
@@ -145,7 +145,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 📝 License
 
-This project is licensed under the MIT License - see below for details:
+This project is licensed under the MIT License 
 
 ## ⚠️ Requirements
 
